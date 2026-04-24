@@ -1,0 +1,1 @@
+grokhub.dev is a premium community platform for the Grok/xAI/X-builders tribe. Free. Positioned as the home for displaced X Communities about Grok, xAI, and related topics. Topics will include Grok development, xAI news, X platform changes, Grok prompts/tricks, and meta-threads about grokhub.dev itself (users suggesting site improvements).
